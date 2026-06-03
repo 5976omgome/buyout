@@ -176,3 +176,52 @@ Deal type · Min artist size · Genre/specialty · Broker-friendly? · Key conta
 4. **Output** — same one-row-per-company CSV format as the Ignite Buyer Rolodex, so the two files sit side by side?
 
 Once you answer, I'll run the seed-and-expand passes and deliver the full verified CSV with contacts.
+
+---
+
+## PART 6 — Expansion pass (additional companies found, 2026-06-03)
+
+New names surfaced by the seed-and-expand engine. All still need a live domain/TLD check (◻️) before pitching.
+
+### B — Financing / advances (expanded)
+| Company | Website (verify) | Notes |
+|---|---|---|
+| Horus Music / ChordCash ◻️ | chordcash.com | Advance up to **8x annual streaming income**; keep recordings, publishing, touring, merch, sync |
+| Indify ◻️ | indify.io | Angel-investor **matchmaking** platform; pairs investors w/ emerging artists; James Blake used it |
+| Cash App Studios ◻️ | — | Open-ended artist funding (per Billboard "New Funders") — verify still active |
+| Beatdapp ◻️ | beatdapp.com | streaming-data / fraud-detection; more infra than financier — verify before listing |
+
+### C — Digital-first / marketing labels (expanded)
+| Company | Website (verify) | Notes |
+|---|---|---|
+| Homemade Projects ◻️ | — | digital-marketing juggernaut (Travis Scott, Metro Boomin campaigns); bought by **10K Projects** 2022; Gen-Z JV label |
+| Foundation Media ◻️ | foundation-media.com | ~20 yrs label services + distribution + monetization for indie artists/labels/content |
+| Vitalize Projects / Vitalize Records ◻️ | — | management co. + indie label; distribution via Vydia (May 2026) |
+| Against the Grain (ATG) ◻️ | — | digital-marketing + management (Omid Noori) |
+
+### E — Sync licensing (expanded list to pitch)
+| Company | Website (verify) | Notes |
+|---|---|---|
+| Position Music ◻️ | positionmusic.com | major sync agency (⚠️ impersonation scams — verify inbound) |
+| Songtradr ◻️ | songtradr.com | sync marketplace; owns MassiveMusic; free tier ~60% of fees |
+| Musicbed ◻️ | musicbed.com | curated sync; no AI submissions |
+| Marmoset ◻️ | marmosetmusic.com | indie-friendly sync; ~50/50 splits |
+| Audiosocket ◻️ | audiosocket.com | indie sync library |
+| Audio Network ◻️ | audionetwork.com | production music / sync |
+| AudioSparx ◻️ | audiosparx.com | accepts wide submissions incl. AI |
+| Significant Music ◻️ | — | sync placements (film/commercials) |
+| Pump Audio ◻️ | pumpaudio.com | indie sync |
+| Catalog (marketplace) ◻️ | dmy.co | curated indie-label sync coalition |
+
+### D — Creator / royalty-free license (license OUT to creators)
+| Company | Website (verify) | Notes |
+|---|---|---|
+| NCS (NoCopyrightSounds) ◻️ | ncs.io | UK; royalty-free EDM; creator-license model |
+| Monstercat ◻️ | monstercat.com | Create Music Group; Gold creator licenses |
+| Epidemic Sound ◻️ | epidemicsound.com | owns 100% of catalog; subscription license to creators; **does sign/commission artists** |
+| Artlist ◻️ | artlist.io | subscription creator-license |
+| Audiio / Soundstripe / Thematic ◻️ | — | creator subscription licensing platforms |
+| Proximity ◻️ | — | electronic; creator-facing (verify entity/domain) |
+
+> ⚠️ **Scam caution (recurring industry warning):** legitimate licensing/sync partners earn via commission or revenue share. Any upfront "review/registration/processing fee" — especially via PayPal/Venmo/crypto — is a scam. Verify all inbound via official company contact pages. (Source: MassiveMusic, SyncJournal 2026.)
+
